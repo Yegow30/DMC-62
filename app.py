@@ -6,8 +6,8 @@ st.title("Especialización Python for Analytics")
 st.sidebar.title("Parámetros")
 st.write("Elaborado por: Diego Yabar")
 
-st.image("Python_logo.png",width =300)
-st.sidebar.image("DMC.png")
+st.image("python.png",width =300)
+st.sidebar.image("dmc.png")
 
 
 modulos = st.sidebar.selectbox("Selecione el módulo",["Listas", "Arreglos", "Funciones", "POO"])
